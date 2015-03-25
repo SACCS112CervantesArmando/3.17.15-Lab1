@@ -35,12 +35,6 @@ public class Lab3 {
 		}
 			while(round<4);
 		
-			
-		
-	    
-		
-		
-			
 	    }
         
     }
